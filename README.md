@@ -6,7 +6,7 @@ I am currently pursuing my Bachelor's in Cybersecurity and Information Assurance
 
 <h2>👩🏽‍💻Cybersecurity Projects</h2>
 
-  - [Building an at Home SOC Lab](https://github.com/CyberCee23/LABURL)
+  - [Building an at Home Lab](https://github.com/CyberCee23/LABURL)
 
 <h2>📄Certifications</h2>
 
